@@ -47,7 +47,7 @@ I'm passionate about technologies and love to learn new things.
 <br />
 
 
-## 📊 Github Stats
+## <img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30px" height="30px"> Github Stats
 
 <p align="center">
   <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=hpb0412&count_private=true&theme=tokyonight" />
