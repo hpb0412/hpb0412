@@ -46,8 +46,19 @@ I'm passionate about technologies and love to learn new things.
 
 <br />
 
-> Growing 🌱 in my spare time ⚡:<br />
-![Ghost](https://img.shields.io/badge/-Ghost-05122A?style=flat&logo=ghost)
+
+## 📊 Github Stats
+
+<p align="center">
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=hpb0412&count_private=true&theme=tokyonight" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpb0412&layout=compact&theme=tokyonight" />
+</p>
+
+<br />
+
+
+## 🌱 Growing in my spare time ⚡:
+> ![Ghost](https://img.shields.io/badge/-Ghost-05122A?style=flat&logo=ghost)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
@@ -70,18 +81,7 @@ I'm passionate about technologies and love to learn new things.
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)
 ![Yii](https://img.shields.io/badge/-Yii-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAYAAAAxFw7TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKaSURBVHgBpZRNSFRRFMfPue/6RTIqQoaGzdRGhxbiB1ZSBIZokRDULmrRskUSNhJFjozRx0Bbg6KIMMiFhZIbi0YcGlQ0BD9mITUbCTLTMcOc3r2n+0YnR33PGcazefee87+/c859916AXdii9/CzpYfOx0SAMR9CirbkdfYpUMP6dCzHNVVhDBikYL+8ztY4mGHlqlJvShUu3CuxM419NYsx5AXcGLi7nOmwP7OYcyrUGVuG/PkptyP0x2wRZ1AnLZIRRa7x9uHK9wRQpWY2IgRNqMj3fPAM5w+SgFcsK733dllgNrZIIKu2aksCO82IqNaAbU8Hx5FBB61G/O0j5a6NtmDGgmfsn8No2cheBNZmJ4kPPEMVVUKDy+BbGVTJrJrOZojoh+TsvCap39Y85UdCnykO2QQTOj6BZI3wmCdQ+UhI0WYWRpLj0f1V7XxRH0cSSJAraRD5rVXdmFx4i1u2Sv2POrY24BcgSSPBII3jfbWoY3MAQrkt0/1R4J0jQ6NSsovq9NOOMIlAOjNEtYG9GZ3xMUS6a3z/X73WoyOdksRBdRZfWwL1jZsaKMo+o1ocjVVnc00/jYLNFroDZXbG+AmVtVxVXYiABYCyWoSzMowq1yrC502f5yUiXJFCOvJuBkOWQDM72RO8tY9/aj+g9UAm/DCq8l8f//lBAoq8lklPTKclBXszbVfK7mUqZrPiVLSKHC0Yrpn725rrmuiO1/JkgMSxD+O0IdEIOuwJ25qvBrdqE76Hte9m6hWsdKv/m6xZNtMnBArQ6838OmV2pQQEQYfM3MjpY2pAxPB2J7X5GkpDKQJhbhOK4KXvbKnbSp4QqN63sfXhorpyroHGkks76RMeGxlJ7wW+2gR6xouBc47FRPp/Amr+Pu70r48AAAAASUVORK5CYII=)
 
-and more... 😄
-
-<br />
-
-## 📊 Github Stats
-
-<p align="center">
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=hpb0412&count_private=true&theme=tokyonight" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpb0412&layout=compact&theme=tokyonight" />
-</p>
-
-
+> and more... 😄
 
 
 
