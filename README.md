@@ -13,7 +13,7 @@ I'm passionate about technologies and love to learn new things.
 ![TypeScript](https://img.shields.io/badge/-TS-05122A?style=flat&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+![Scss](https://img.shields.io/badge/-Scss-05122A?style=flat&logo=sass)
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 
