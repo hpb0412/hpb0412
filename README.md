@@ -24,6 +24,7 @@ I'm passionate about technologies and love to learn new things.
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind%20css&logoColor=38BDF9)
 ![Swift UI](https://img.shields.io/badge/-Swift%20UI-05122A?style=flat&logo=swift&logoColor=0C4ADA)
+![Solid](https://img.shields.io/badge/-Solid-2C4F7C?style=flat&logo=solid)
 
 - Backend: <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
