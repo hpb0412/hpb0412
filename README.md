@@ -13,7 +13,9 @@ I'm passionate about technologies and love to learn new things.
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)
 ![Eslint](https://img.shields.io/badge/-Eslint-05122A?style=flat&logo=eslint&logoColor=4B32C3)
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)<br />
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
+<br />
 
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)
 ![PNPM](https://img.shields.io/badge/-PNPM-05122A?style=flat&logo=pnpm)
