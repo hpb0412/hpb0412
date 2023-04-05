@@ -39,9 +39,10 @@ I'm passionate about technologies and love to learn new things.
 - Frontend:<br />
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind%20css&logoColor=38BDF9)
 ![SolidJS](https://img.shields.io/badge/-SolidJS-05122A?style=flat&logo=solid&logoColor=2C4F7C)
-![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
+
 
 - Backend:<br />
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
@@ -54,7 +55,7 @@ I'm passionate about technologies and love to learn new things.
 ### What I am also capable:
 
 - Web:<br />
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 ![Pinia](https://img.shields.io/badge/-Pinia-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAMAAADEfo0+AAACTFBMVEUAAADzwE3+32X8zkj0wTz/2FVTwmD/1UtUrFlWpFX/6G1QrVlYq1j7x0Bg13FRslr/zkVs2n3/yTz/0UH/0UH/0T9Uvl9VwmP80k3/3Fltw3r+5pX4x4pm3Xj5znf94mz/1l//5nbv3mn/4JYppFY1oVX/54n/42mjulz/4Ff5xkH5xUD+5WZVx2T/2FL/1U3/1Uj+3l+Ftl1RrFn/7W3/3l1Ux2F144dZ0Wj/0ED+10+G7Zgpold454r+1kj/5WJctFxUyWNi23P/5GL/6WpVvV9Uw2H/5mZRuFv/1kv/42K9x2P90UiD7JZ+55D/4mb/zED/yj1u4YFVu19344j642b/y0Jy6oJMrlxd2nAAmlFs2Hz/zET12GL/1lIAAAD/xjn/1VP/52z/2Uz/0kz2wz390U//1UX/y0D/5mv/5Gpd0mj/4mdWwmH/3mBTul7/4Fr/2Vn/2FX/1lL/4E//0078z0r/0En/zkb+zUX+2EL/zUL+6aZ15Ij/83H/6W7/5G5f02rV3WlYy2X/32Qpy2JbuF7XuE3/3kv/3Ef5yEP/1ED2xUD/yDzww9bT1NHxws/v18zEwsm/wsny58fg1LPJxbP76rGkqK3/36uVnKf95ZyH9ptzgpd/6ZL/6Ixz64Zs3H5m4Xlh1XP6znH/8HD/4Gvx4Wre32n/7mez2GdPzmVAzmNhzGMyzGL/4F+qwF9VvV+Ot16Wt1w1rlz/5Vv/3Fr/61j/01dOplf/4VY7oFUrnVT501PzzVDuzE3/5Ez+2EftuDPsuDMxRK2mAAAAYXRSTlMABP7+/vhiEP7+/Pz8/Pv7+ff239u1VkAnIwr+/v7+/v79/fz8/Pv7+/v5+PX17+vq5+Pi3t7a1dLS0dDLyMbEure2s6+rnZuXjod8eXdzcW9lXUtJNzYxLykmIR4aGQoJHCEYwAAAAXZJREFUGNNNyNNybAEURdHdSsf2tW9s27ado7aN2LZt2+aP5VQlqcp6WnPA+zLCnOHj8udmMj+2c1BtbcTbLwmOsYfcBatFq7JXMOALm5Njl8yXvxRV5Rk4kCC0sGjj8xsbzRP8Dps9AOzFhpe/W3f2WrfbDE3EgQDFptdGB00bTVu7f4xMhIkAlPCjnygXRXnrxzemYgegQFqdsQDhIdR69P9JNABU+Nd/44p6z9AGY9S3lISkOheFQIpIeRLqajzZTu6STzX7IkGLZL5BxC0AyDr/2z9V00ntGB8e/beZChD38GtoYvqxpXNkduzHaRRAgOLzwKSuvf1+bbDv65UPExgyjN0tu72TYRcr36UMJ0BULARhyeUIIsdwFsMRvHC6qoemxJWqHhZd6VkJkRjtuQtXq9V41xMNC6VAeocbQWg1Go2WIFwVKQBMW7alGV3P0RJmlmzvcgBwDNF16zkcjp6tsykECinVOXa21r3WNnbZTLJfAKYzc0HFxJ9sAAAAAElFTkSuQmCC)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
