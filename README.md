@@ -22,7 +22,6 @@ I'm passionate about technologies and love to learn new things.
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)
 ![ASDF](https://img.shields.io/badge/-ASDF-05122A?style=flat&logo=asdf&logoColor=B744B8)
-![Tabby](https://img.shields.io/badge/-Tabby-05122A?style=flat&logo=tabby&logoColor=BCECF9)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
@@ -34,22 +33,22 @@ I'm passionate about technologies and love to learn new things.
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
 ![Scss](https://img.shields.io/badge/-Scss-05122A?style=flat&logo=sass)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+![Odin](https://img.shields.io/badge/-Odin-05122A?style=flat&logo=data:image/png;base64,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&logoColor=7aade5)
 
 - Frontend:<br />
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind%20css&logoColor=38BDF9)
-![SolidJS](https://img.shields.io/badge/-SolidJS-05122A?style=flat&logo=solid&logoColor=2C4F7C)
+<!--![SolidJS](https://img.shields.io/badge/-SolidJS-05122A?style=flat&logo=solid&logoColor=2C4F7C)-->
 
 
 - Backend:<br />
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![Gofiber](https://img.shields.io/badge/-Gofiber-05122A?style=flat&logo=gofiber&logoColor=00ADD8)
+![PlanetScale](https://img.shields.io/badge/-PlanetScale-05122A?style=flat&logo=planetscale)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+<!--![Gofiber](https://img.shields.io/badge/-Gofiber-05122A?style=flat&logo=gofiber&logoColor=00ADD8)-->
 
 
 ### What I am also capable:
@@ -90,14 +89,15 @@ https://khoasolo.com
 ![CLang](https://img.shields.io/badge/-Clang-05122A?style=flat&logo=data:image/vnd.microsoft.icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD9/f0A/f39AP39/QD///8A////AP///wD///8A////AP///wD///8A////AOnp5y/MysZ+09LOfOfm5S708/I19vX0K/n4+CP9/PwP/f39AP///wD///8A////AP///wD///8A////AP///wDMysZ139/dLuHg3VrR0MyLxsK+nObl5Cvx8fAV7uzrR/39/QD///8A////AP///wD///8A////AP///wD///8A/f38A/Ly8S/8/PwH8/PyH8bDv6efmpP9t7Ks6ujm5Gv9/f0A////AP///wD///8A////AP///wD///8A7u3tHf///wD4+PgFm5eVeczKyU+zrquTaWNc9qeinP+5trDH9vb2CfT08wz8/PwA////AP///wD///8A9/b2BpOOjJzn5eQZVk5IyS8mIP1XTUj9c2lj3cG+uprPzcmqtbKs/Xpwa+BVUEzewb27SP///wD///8A////AL+8uktSSkXtVkxH1DUoIf81KSL/ubKvz/j49xnl4d5P/Pv7DM3JxbbZ1dNyXFVP/UtBO9n6+fkD/f39AP///wCIgX2QNSkj/1BFQP9BMy3/Wk9I+Pf29R7U085x2dHK6Pz8/A/l4+B87ezqOI6Hg802KSL9nJiUf+zr6xL8/PwAZFtVwDotJv9cUEr/VklC/52VkbL9/f0A1NLQmPDv7mT9/f0A39rXoff29RW2sK2HQTMt/0U7NfbMycc8/Pv7DE9FP9o7Lif/Rzoz/29kXvbPy8iG////AOzr6kna1tSb2tbUjujl42f9/f0Av7q3eVRGQP9BNjD/uLSyVfz7+wmtqKSFfnZwz6Obl7nb2ddZ+Pj4DP///wD///8A+Pf3Evv6+gr8/PwA////AMbBvopnWlT9PC8o/7axr1r///8A////AP39/QD39/YV+vr6Cf///wD///8A////AP///wD///8A////AP///wDz8vEvlo2IyFJGQfrT0c9E////AP///wD9/f0A/f39AP///wD///8A////AP///wD///8A////AP///wD///8A/f39APb19B729vUZ/f39AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A//8AAP//AAD//wAA/P8AAP4/AAD+HwAA0AcAAMHTAACDcwAAgtEAAIM5AACP8QAA//kAAP//AAD//wAA//8AAA==)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=2C2D72)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
-![Elm](https://img.shields.io/badge/-Elm-05122A?style=flat&logo=elm)<br />
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)<br />
 > ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-05122A?style=flat&logo=godot%20engine)
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![Ghost](https://img.shields.io/badge/-Ghost-05122A?style=flat&logo=ghost)
 ![Linode](https://img.shields.io/badge/-Linode-05122A?style=flat&logo=linode)
 ![ANTLR4](https://img.shields.io/badge/-ANTLR4-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAANBSURBVHgBtZP5a1RXFMe/9759lvRNBsdWKhosomlDpRhqcelYW0qsoQ3V0loUhKAIKgjqT/oPiD8oiiBEBVERF9xFjWiEuMWAS3BcQIdgoiFmmZkYTfLeu8ebp8Z50aCCXjg/vPM99/PuPd97gE+82LuSJPO54qJSqMpMwWgmiH0v07osbpfaBY/YQRXmYbuhofO9wKYZ4+LhLm81XCySsoWhT3IbnK+x6+8cGBJIyeJIltgREE3PzytfF4GNGQvv4jmQ0xfYIjiWFdakNr0FbJ1THNF7jOOMaFrgKIaFaNVRMDuO3sO70Fu1DsH2sGeSssw+em1r/zd/LZg8shCGNo1MHfmhl//jw3x22WwgGg7oMLUQM7W17f+WjhwAZuZOiZFpLWVhE8GwoP9WAbgunPPHpS0GjPL/MLgOIbNQN0KVA0D+hTWVmfpoZhrID3XCJPARo+DeqkNfzSFA9k/7+Q+wSBSDa4VpLCB5fx/o3X7yA+Vksy0pWtZAGOXz/C71nd0PyrTCTdX7P9AmTg3UQVVBLbmRmZ/GjfKBor1rhLjVDFGXhmjJyYR0dsy3UIrGw3uQgmhtktfV4Vyp9n3Uk3/639TjQdxrgbiaBqXbILrdr9RXngjfsae9oFQTRAp4NHE26OFjJHbvgNrYJvvC4TbWoOnHCmQLYrCbOcINdwOOMy6Uly4z1pIveLE4eiaUorejA+L0OXQVjkV2dCmy30zC8zt3pUcCz8r+wuDFyWv2gYx4nYTidbjzKxFLDMPwM8eg5DKw6i9CSQwHVS6GmZyOwoIwrMlTIMaX4M0+NNo3G9OvXDYuMYvfZyEFbJiN8C+/IhaST6T2FPpznDsI7dmC6MqFKLh+GTH5VOwvE9BmzfL1l6Fu6Wf5PbRrGzo7fi9Zr3C+EdyDVl8D0dYK4WSkaLzpUbfszIbVwMkSGBX/w7l/AyR1EkirirM9MHqUTJrZePdOxtjf+LjlEdFc+8DVvQGgD51TrOdC8RPSrhkfhCJ0CtdbEdtVu23gFoNrnqyaHNU7I8uhYTmTUzw0jK4Ih9bYVaer89NsqPrMkvIipjE5Z6yMc/adLNWFnAcuUOt6TrXjhM4mNu97is+9XgDyuSvdAPql1QAAAABJRU5ErkJggg==)
+<!--![Elm](https://img.shields.io/badge/-Elm-05122A?style=flat&logo=elm)-->
 
 
 
