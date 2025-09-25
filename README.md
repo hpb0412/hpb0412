@@ -2,24 +2,31 @@
 
 I'm passionate about technologies and love to learn new things.
 
-My daily job is a Front-end Engineer, but late at night, I don't limit myself to any tech stack.
+My daily job is a Front-end Engineer.
+
+Late at night, I delve deeper into the system areas beneath it.
 
 Below is my preferred technology at the moment:
 
 <br />
 
-![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TS-05122A?style=flat&logo=typescript)
-![TypeScript](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Odin](https://img.shields.io/badge/-Odin-05122A?style=flat&logo=odin)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![C](https://img.shields.io/badge/-language-05122A?style=flat&logo=c)
+![Mantine](https://img.shields.io/badge/-Mantine-05122A?style=flat&logo=mantine)
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Solid](https://img.shields.io/badge/-Solid-05122A?style=flat&logo=solid)
 ![Tanstack](https://img.shields.io/badge/-Tanstack-05122A?style=flat&logo=react+query)
 ![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)
 ![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-05122A?style=flat&logo=css+modules)
+
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Drizzle](https://img.shields.io/badge/-Drizzle-05122A?style=flat&logo=drizzle)
+![Better Auth](https://img.shields.io/badge/-Better%20Auth-05122A?style=flat&logo=better+auth)
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat&logo=zustand)
 
 <br />
 
