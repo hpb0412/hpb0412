@@ -10,11 +10,15 @@ Below is my preferred technology at the moment:
 
 <br />
 
+![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TS-05122A?style=flat&logo=typescript)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
+<!--![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)-->
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
 ![Odin](https://img.shields.io/badge/-Odin-05122A?style=flat&logo=odin)
 ![C](https://img.shields.io/badge/-language-05122A?style=flat&logo=c)
-![Mantine](https://img.shields.io/badge/-Mantine-05122A?style=flat&logo=mantine)
+<!--![Mantine](https://img.shields.io/badge/-Mantine-05122A?style=flat&logo=mantine)-->
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Solid](https://img.shields.io/badge/-Solid-05122A?style=flat&logo=solid)
